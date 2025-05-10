@@ -2,6 +2,8 @@
 
 Backend do projeto da disciplina **Projeto e Arquitetura de Software**, da UCS. Desenvolvido em grupo utilizando **Spring Boot**, **JDBC**, **MySQL** e o padrão **MVC**.
 
+Integrantes: Bruna Chies, Felipe Castilhos, Jhonatan Martins
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
